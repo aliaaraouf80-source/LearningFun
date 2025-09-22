@@ -1,0 +1,9 @@
+LearningFun/
+├── src/
+│   └── index.ts
+├── dist/ (will appear after compilation)
+├── index.html
+├── styles.css
+├── tsconfig.json
+├── package.json
+├── .gitignore (from the earlier response)
